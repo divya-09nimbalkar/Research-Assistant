@@ -1,0 +1,9 @@
+{
+  "pdf_dir": "test_pdfs",
+  "num_pdfs": 1,
+  "num_chunks": 2,
+  "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+  "chunk_size": 800,
+  "chunk_overlap": 120,
+  "force_reindex": true
+}
